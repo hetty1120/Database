@@ -1,7 +1,7 @@
 # Database
 # Assignments from Database System course
 
-# construct tables for auction data
+# construct a database for auction data
 
 1. design ER model;
 2. construct tables;
